@@ -15,4 +15,4 @@ Meu modelo foi capaz de detectar variações reais das preferências dos eleitor
 
 Por fim, sugeriu um resultado apertado em que Luís Inácio Lula da Silva levaria o pleito, o que foi exatamente observado na ocasião.
 
-<img src="https://imgur.com/a/XYz3ehY"/>
+<img src="https://i.imgur.com/n4lwytZ.png"/>
